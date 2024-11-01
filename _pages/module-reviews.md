@@ -990,7 +990,7 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">YY/YY</large>
         <br/>
-        review here
+        When I took this module, lecture one had everyone totally lost. Thankfully we slowed down but this meant dropping content from the end of the module (de Rham cohomology and degree theory). The notes by Christian Boehning are very dense and begins with projective space - instead of the much simpler spheres.
       </div>
     </div>
     <!-- -->
@@ -1005,7 +1005,7 @@ Note that only the most popular optional external modules have been listed below
       <div class="card-body">
         <large class="text-muted">23/24</large>
         <br/>
-        This module is incredibly dense compared to <i>MA3F1 Introduction to Topology</i>, though it should be noted that relatively little from that module is required for this one; <i>MA3F1</i> is concerned entirely with homotopy theory, while this module covers homology theory. Only the basic notion of a homotopy, and the Seifert-van Kampen theorem are assumed in this course, and these can be learnt separately without much issue. This module roughly covers the third chapter of Hatcher.
+        This module is incredibly dense compared to <i>MA3F1 Introduction to Topology</i>, though it should be noted that relatively little from that module is required for this one; <i>MA3F1</i> is concerned entirely with homotopy theory, while this module covers homology theory. Only the basic notion of a homotopy, and the Seifert-van Kampen theorem are assumed in this course, and these can be learnt separately without much issue. This module roughly covers the second chapter of Hatcher.
         <br/>
         <br/>
         The module introduces the idea of homology, beginning with semi-simplicial structures and simplicial homology, before introducing the more general concept of a chain complex, and the more flexible singular homology, which is used for much of the remainder of the course. Two main results in singular homology then take up a large proportion of the middle section of the module: proving Homotopy Invariance with chain homotopies and the prism operator; and the Mayer-Vietoris Long Exact Sequence with barycentric subdivision. Using these results, the Jordan Curve theorem is finally proved, having been mentioned since the foundations notes in first year.
